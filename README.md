@@ -1,6 +1,7 @@
-# Learning Django using FreeCodeCamp
+# Learning Django using TraversyMedia Course Instructor Dennis Ivy
 
-by: [Chuck Severance](https://www.youtube.com/channel/UChYfrRp_CWyqOt-ZYJGOgmA) | [course source](https://www.youtube.com/watch?v=o0XbHvKxw7Y)
+[Course Source](https://www.youtube.com/watch?v=PtQiiknWUcI)
+[Course Code](https://github.com/divanov11/StudyBud)
 
 # UPDATES
 
@@ -11,6 +12,16 @@ by: [Chuck Severance](https://www.youtube.com/channel/UChYfrRp_CWyqOt-ZYJGOgmA) 
 - Make a test run to ensure everything is working
 - Added gitignore
 
+## Second Commit
+
+- Creating apps in project
+- Templating
+- Dynamic urls
+- Views
+- Dynamic values
+- Database
+- Admin Panel
+
 ### Note to myself
 
-Continue from: 3:37:14
+Continue from: 1:37:06
